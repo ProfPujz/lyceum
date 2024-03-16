@@ -48,7 +48,7 @@ More to be added.
 - *Aquinas: Basic Works*, Jeffrey Hause
 
 ### Descartes to Deleuze
-A cherrypicked set of works that carry through to reading Deleuze from the Spinozist perspective.
+A cherrypicked set of works that enable reading Deleuze from the Spinozist perspective.
 
 - *Meditations*, René Descartes
 - *Ethics*, Baruch Spinoza
