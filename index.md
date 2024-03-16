@@ -90,6 +90,7 @@ A cherrypicked set of works that carry through to reading Deleuze from the Spino
 - *Mind and Emergence*, Philip Clayton
 
 ## Suggestions
-Click [here]() to submit suggestions via pull request, and they'll be added to the reading list where possible.
-
-- Add your suggestion to this list...
+You suggest a text by:
+- DMing me on Twitter
+- Emailing me at hi at pujz dot net
+- Submitting a pull request [here](https://github.com/ProfPujz/lyceum/) and directly adding your suggestion to the reading list (A+ for effort)
