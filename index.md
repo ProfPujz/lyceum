@@ -18,7 +18,7 @@ Texts are picked on a per-session rolling basis, but we prefer to read 'modules'
 
 ### The Greeks
 - ~~*Euthypro*, Plato~~
-- *Apology*, Plato
+-  *Apology*, Plato
 - *Crito*, Plato
 - *Meno*, Plato
 - *Phaedo*, Plato
