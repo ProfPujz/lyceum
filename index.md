@@ -20,8 +20,8 @@ Texts are picked on a per-session rolling basis, but we prefer to read 'modules'
 
 ### The Greeks
 - ~~*Euthypro*, Plato~~
--  *Apology*, Plato
-- *Crito*, Plato
+- ~~*Apology*, Plato~~
+- ~~*Crito*, Plato~~
 - *Meno*, Plato
 - *Phaedo*, Plato
 - *Republic*, Plato
@@ -29,11 +29,13 @@ Texts are picked on a per-session rolling basis, but we prefer to read 'modules'
 - *Nichomachaean Ethics*, Aristotle
 - The *Enneads*, Plotinus
 
-### The Limits of Reason
+### Let's Be Unreasonable
 
 - *The Kekulé Problem*, Cormac McCarthy
 - *The Library of Babel*, Jorge Luis Borges
 - *Orthodoxy*, G.K. Chesterton
+- *Philosophical Investigations*, Ludwig Wittgenstein
+- *On Certainty*, Ludwig Wittgenstein
 
 ### Philosophy of Science
 Just to mix things up a bit.
@@ -75,8 +77,6 @@ A cherrypicked set of works that enable reading Deleuze from the Spinozist persp
 
 ### Post-structuralism, Postmodernism, and the Linguistic Turn
 - *Power/Knowledge: Selected Interviews*, Michel Foucault
-- *Philosophical Investigations*, Ludwig Wittgenstein
-- *On Certainty*, Ludwig Wittgenstein
 - *The Postmodern Condition: A Report on Knowledge*, Jean-Francois Lyotard
 - *Simulations*, Jean Baudrillard
 
