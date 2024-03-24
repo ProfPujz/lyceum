@@ -5,14 +5,14 @@ layout: layout.html
 
 Every Saturday, 2pm GMT / 10am ET on Twitter Spaces. Click on the name of the text to access the copy we'll be discussing. DM [@ProfPujz](https://x.com/ProfPujz) on Twitter to be added to the GC. 
 
----
+## Schedule
+
 | Date       | Text                                                                                                              |
 | ---------- | ----------------------------------------------------------------------------------------------------------------- |
 | 2024-03-16 | [*Euthyphro*](https://classics.mit.edu/Plato/euthyfro.html)                                                       |
 | 2024-03-23 | [*Apology*](https://classics.mit.edu/Plato/apology.html) and [*Crito*](https://classics.mit.edu/Plato/crito.html) |
 | 2024-03-30 | [*Meno*](https://classics.mit.edu/Plato/meno.html) and [*Phaedo*](https://classics.mit.edu/Plato/phaedo.html)     |
 | 2024-04-06 | [*Republic*](https://classics.mit.edu/Plato/republic.html) (Books I-III)                                          |
----
 
 ## Reading List
 
