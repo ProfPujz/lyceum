@@ -12,7 +12,7 @@ Every Saturday, 2pm GMT / 10am ET on Twitter Spaces. Click on the name of the te
 | 2024-03-16 | [*Euthyphro*](https://classics.mit.edu/Plato/euthyfro.html)                                                                                                                                                                |
 | 2024-03-23 | [*Apology*](https://classics.mit.edu/Plato/apology.html) and [*Crito*](https://classics.mit.edu/Plato/crito.html)                                                                                                          |
 | 2024-03-30 | [*Meno*](https://classics.mit.edu/Plato/meno.html) and [*Phaedo*](https://classics.mit.edu/Plato/phaedo.html)                                                                                                              |
-| 2024-04-06 | [*The Kekulé Problem*](https://nautil.us/the-kekul-problem-236574/) and [*The Library of Babel*](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf s) |
+| 2024-04-06 | [*The Kekulé Problem*](https://nautil.us/the-kekul-problem-236574/) and [*The Library of Babel*](https://sites.evergreen.edu/politicalshakespeares/wp-content/uploads/sites/226/2015/12/Borges-The-Library-of-Babel.pdf) |
 
 ## Reading List
 
